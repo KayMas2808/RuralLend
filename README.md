@@ -1,8 +1,6 @@
 
   # RuralLend Mobile App Design
 
-  This is a code bundle for RuralLend Mobile App Design. The original project is available at https://www.figma.com/design/tL6ih8OxTAYjuwNJuSLQU2/RuralLend-Mobile-App-Design.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
